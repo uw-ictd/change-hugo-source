@@ -1,0 +1,15 @@
+{{/* My Custom Block */}}
+
+{{/* Get variables */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{/* Add your block layout below */}}
+{{/* Styles can be added to the SCSS file */}}
+{{/* Access custom front matter options via $block.Params  */}}
+{{/* E.g. mytext via $block.Params.mytext */}}
+
+<h2>{{$block.Title}}</h2>
+<h1 style="text-align:center;"> Stay in touch </h1>
+<p style="text-align:center;">{{$block.Content}}</p>
+<p style="text-align:center;"> Please subscribe to our <a href="https://dubber.cs.washington.edu/mailman/listinfo/change">mailing list</a>. View archives at <a href="https://www.mail-archive.com/change@change.washington.edu">mail-archive.com</a></p>

@@ -1,5 +1,5 @@
 ---
-title: 20 Years of ICTD Research at UW CSE 
+title: eHealth Data Security and Privacy of HIV Care in Malawi  
 event: Change seminar
 
 location: CSE 387 (Gates Building), Bill and Melinda Gates Building | [Zoom](https://washington.zoom.us/j/95254816636)
@@ -10,16 +10,16 @@ address:
   postcode: '98195'
   country: United States
 
-abstract: "In this talk, I will give an informal overview of UW CSE work in Information and Communication Technologies for Development (ICTD).  The 20 year number is (almost) accurate – as the first UW CSE paper in the area (by Tapan Parikh) dates from November 2003.  This talk will survey a range of projects conducted by the lab, with a focus on Interventionist ICTD, highlighting work of graduate students and postdocs.   One of the main projects that will be presented in the NSF Smart Health and Wellbeing project: From the Ground Up - Mobile Tools for Grassroots Programs in Public Health which brought together a range of projects in Data Collection,  Mobile Diagnostics,  and Behavior Change Communication and had strong external partnerships."
+abstract: "The development and adoption of eHealth in low- and middle-income countries has potential to advance the quality of care in healthcare settings that are challenged by weak infrastructure. Especially in the countries where HIV rates are high, there is need to implement electronic medical record systems to enhance care and improve treatment outcomes. Due to the sensitivity of HIV-related information, eHealth applications in HIV care necessitate the attention and prioritization of data security and privacy. We explored diverse stakeholders’ views on data security and privacy in Malawi’s public HIV care program to expand the understanding of gaps and opportunities in improving data protections. This work connects data security and privacy goals and practices with previous work on mobile device usage as well as global best practices for security and privacy in healthcare settings. A key finding articulated by stakeholders is the importance of establishing strong data security governance."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-03T12:00:00Z'
-date_end: '2023-10-03T13:00:00Z'
+date: '2023-10-10T12:00:00Z'
+date_end: '2023-10-10T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-10-02T00:00:00Z'
+publishDate: '2023-10-10T00:00:00Z'
 
 authors: []
 tags: []
@@ -27,14 +27,14 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 image:
-  caption: 'Image credit: [**Tricia **](https://publichealth.jhu.edu/sites/default/files/styles/profile/public/images/3314.jpg?h=84e705d9&itok=GyZNK8wB)'
+  #caption: 'Image credit: [**Tricia **](https://publichealth.jhu.edu/sites/default/files/styles/profile/public/images/3314.jpg?h=84e705d9&itok=GyZNK8wB)'
   focal_point: Right
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/triciaaung
+    url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -54,7 +54,7 @@ url_video: ''
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
-name: Richard Anderson
+name: Lisa Orii
 ---
 
 
@@ -68,6 +68,7 @@ name: Richard Anderson
 
 <b>Presenter Bio</b>
 <br>
-Richard Anderson is a Professor of Computer Science and Engineering, where he has been on the faculty since 1986, with brief leaves to Indian Institute of Science, Microsoft Research, and PATH. His research has focused on computing for the developing world since 2005, when he became involved with the Digital Study Hall project. In 2009, Richard spent a sabbatical year working with the Digital Health Solutions group at PATH, a global health NGO based in Seattle. This opportunity allowed him to increase his efforts on applying computing technologies to challenges in global health. While working with PATH, he co-founded the Projecting Health project, which used the Community-Led Video Education model to promote healthy practices in rural areas in India.  His research interests in ICTD include technologies for behavior change communication, improving tools to support the use of data in strengthening health systems, and digital financial services.  In 2020 he received the ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics for contributions bridging the fields of computer science, education, and global health.
-**[Talk Recording](www.google.com)**
+Lisa Orii is a PhD student in Computer Science & Engineering at the University of Washington. She is advised by Richard Anderson. Her research examines applications of technologies in healthcare settings in low- and middle-income countries. Lisa’s current focus is researching the potential of mobile health tools for improving healthcare workers’ decision-making in clinical settings with limited resources. She is a Funai Overseas Scholarship Recipient and a member of the inaugural cohort of the Quad Fellowship.
+
+**[Talk Recording]()**
 
