@@ -2,7 +2,7 @@
 title: "Anticolonial, Participatory, and Speculative Futures for ICTD: A Research Agenda"
 event: Change seminar
 
-location: CSE 387 (Gates Building), Bill and Melinda Gates Building | [Zoom](https://washington.zoom.us/j/95254816636)
+location: CSE 387 (Gates Building), Bill and Melinda Gates Building | [Zoom](https://washington.zoom.us/j/91639643408)
 address:
   street: 185 E Stevens Way NE
   city: Seattle
@@ -63,7 +63,7 @@ name: Jason Young
 **Resources for Attendees**
 
 **Seminar Details**
-* **Zoom**: https://washington.zoom.us/j/95254816636
+* **Zoom**: https://washington.zoom.us/j/91639643408
 
 
 <b>Presenter Bio</b>
